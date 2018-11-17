@@ -53,7 +53,7 @@ a {
 }
 
 .noLine {
-    text-decoration: none;
+    text-decoration: none !important;
 }
 
 .divider {
